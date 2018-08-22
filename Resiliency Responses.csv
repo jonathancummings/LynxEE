@@ -1,0 +1,241 @@
+Geographic Unit,Expert,Time Period,Highest Prob,Most Likely Prob,Lowest Prob
+Maine/NE,1,2015,1,1,1
+Maine/NE,1,2025,0.97,0.8,0.7
+Maine/NE,1,2050,0.92,0.65,0.5
+Maine/NE,1,2100,0.9,0.5,0.2
+Maine/NE,2,2015,1,1,1
+Maine/NE,2,2025,1,1,0.9
+Maine/NE,2,2050,0.95,0.9,0.85
+Maine/NE,2,2100,0.9,0.7,0.5
+Maine/NE,3,2015,1,1,1
+Maine/NE,3,2025,1,0.95,0.9
+Maine/NE,3,2050,1,0.8,0.6
+Maine/NE,3,2100,0.9,0.5,0.1
+Maine/NE,4,2015,1,1,1
+Maine/NE,4,2025,1,0.9,0.8
+Maine/NE,4,2050,1,0.8,0.6
+Maine/NE,4,2100,0.9,0.5,0.1
+Maine/NE,5,2015,1,1,1
+Maine/NE,5,2025,1,1,1
+Maine/NE,5,2050,0.9,0.8,0.7
+Maine/NE,5,2100,0.9,0.6,0.4
+Maine/NE,6,2015,1,1,1
+Maine/NE,6,2025,1,0.975,0.925
+Maine/NE,6,2050,0.85,0.8,0.75
+Maine/NE,6,2100,0.75,0.4,0
+Maine/NE,7,2015,1,1,1
+Maine/NE,7,2025,1,1,0.98
+Maine/NE,7,2050,1,0.95,0.9
+Maine/NE,7,2100,0.9,0.5,0.1
+Maine/NE,8,2015,1,1,1
+Maine/NE,8,2025,1,0.95,0.9
+Maine/NE,8,2050,1,0.9,0.2
+Maine/NE,8,2100,1,0.8,0.1
+Maine/NE,9,2015,1,1,1
+Maine/NE,9,2025,0.98,0.95,0.9
+Maine/NE,9,2050,0.9,0.85,0.8
+Maine/NE,9,2100,0.6,0.4,0.2
+Maine/NE,10,2015,1,1,1
+Maine/NE,10,2025,1,0.97,0.95
+Maine/NE,10,2050,1,0.7,0.6
+Maine/NE,10,2100,0.9,0.5,0.3
+MN/Lakes States,1,2015,1,1,1
+MN/Lakes States,1,2025,0.99,0.95,0.9
+MN/Lakes States,1,2050,0.9,0.75,0.6
+MN/Lakes States,1,2100,0.5,0.25,0.1
+MN/Lakes States,2,2015,1,1,1
+MN/Lakes States,2,2025,1,1,1
+MN/Lakes States,2,2050,0.9,0.8,0.7
+MN/Lakes States,2,2100,0.7,0.4,0.1
+MN/Lakes States,3,2015,1,1,1
+MN/Lakes States,3,2025,1,0.95,0.9
+MN/Lakes States,3,2050,1,0.85,0.7
+MN/Lakes States,3,2100,1,0.6,0.2
+MN/Lakes States,4,2015,1,1,1
+MN/Lakes States,4,2025,1,0.9,0.7
+MN/Lakes States,4,2050,1,0.8,0.5
+MN/Lakes States,4,2100,0.8,0.5,0
+MN/Lakes States,5,2015,1,1,1
+MN/Lakes States,5,2025,1,1,1
+MN/Lakes States,5,2050,1,0.9,0.7
+MN/Lakes States,5,2100,0.6,0.3,0
+MN/Lakes States,6,2015,1,1,1
+MN/Lakes States,6,2025,1,0.97,0.925
+MN/Lakes States,6,2050,0.9,0.7,0.4
+MN/Lakes States,6,2100,0.5,0.1,0
+MN/Lakes States,7,2015,1,1,1
+MN/Lakes States,7,2025,1,1,1
+MN/Lakes States,7,2050,0.95,0.9,0.85
+MN/Lakes States,7,2100,0.9,0.5,0.1
+MN/Lakes States,8,2015,1,1,1
+MN/Lakes States,8,2025,1,0.95,0.85
+MN/Lakes States,8,2050,0.9,0.8,0.6
+MN/Lakes States,8,2100,0.85,0.5,0.1
+MN/Lakes States,9,2015,1,1,1
+MN/Lakes States,9,2025,0.94,0.88,0.81
+MN/Lakes States,9,2050,0.8,0.6,0.35
+MN/Lakes States,9,2100,0.35,0.2,0
+MN/Lakes States,10,2015,1,1,1
+MN/Lakes States,10,2025,1,1,1
+MN/Lakes States,10,2050,0.9,0.7,0.4
+MN/Lakes States,10,2100,0.7,0.3,0
+Northwest MT/ NE Idaho,1,2015,1,1,1
+Northwest MT/ NE Idaho,1,2025,0.99,0.975,0.95
+Northwest MT/ NE Idaho,1,2050,0.99,0.92,0.85
+Northwest MT/ NE Idaho,1,2100,0.95,0.8,0.7
+Northwest MT/ NE Idaho,2,2015,1,1,1
+Northwest MT/ NE Idaho,2,2025,1,1,1
+Northwest MT/ NE Idaho,2,2050,1,0.95,0.85
+Northwest MT/ NE Idaho,2,2100,1,0.85,0.7
+Northwest MT/ NE Idaho,3,2015,1,1,1
+Northwest MT/ NE Idaho,3,2025,1,0.98,0.95
+Northwest MT/ NE Idaho,3,2050,1,0.9,0.8
+Northwest MT/ NE Idaho,3,2100,1,0.75,0.5
+Northwest MT/ NE Idaho,4,2015,1,1,1
+Northwest MT/ NE Idaho,4,2025,1,0.95,0.9
+Northwest MT/ NE Idaho,4,2050,1,0.9,0.8
+Northwest MT/ NE Idaho,4,2100,1,0.8,0.6
+Northwest MT/ NE Idaho,5,2015,1,1,1
+Northwest MT/ NE Idaho,5,2025,1,1,1
+Northwest MT/ NE Idaho,5,2050,1,1,1
+Northwest MT/ NE Idaho,5,2100,1,0.9,0.8
+Northwest MT/ NE Idaho,6,2015,1,1,1
+Northwest MT/ NE Idaho,6,2025,1,0.97,0.94
+Northwest MT/ NE Idaho,6,2050,1,0.75,0.5
+Northwest MT/ NE Idaho,6,2100,0.9,0.5,0.1
+Northwest MT/ NE Idaho,7,2015,1,1,1
+Northwest MT/ NE Idaho,7,2025,1,1,1
+Northwest MT/ NE Idaho,7,2050,1,0.95,0.9
+Northwest MT/ NE Idaho,7,2100,0.95,0.9,0.85
+Northwest MT/ NE Idaho,8,2015,1,1,1
+Northwest MT/ NE Idaho,8,2025,1,0.95,0.9
+Northwest MT/ NE Idaho,8,2050,1,0.8,0.4
+Northwest MT/ NE Idaho,8,2100,1,0.6,0.1
+Northwest MT/ NE Idaho,9,2015,1,1,1
+Northwest MT/ NE Idaho,9,2025,1,1,1
+Northwest MT/ NE Idaho,9,2050,0.95,0.8,0.65
+Northwest MT/ NE Idaho,9,2100,0.9,0.65,0.35
+Northwest MT/ NE Idaho,10,2015,1,1,1
+Northwest MT/ NE Idaho,10,2025,1,0.95,0.9
+Northwest MT/ NE Idaho,10,2050,1,0.7,0.6
+Northwest MT/ NE Idaho,10,2100,0.8,0.5,0.2
+Washington,1,2015,1,1,1
+Washington,1,2025,0.95,0.85,0.75
+Washington,1,2050,0.8,0.6,0.5
+Washington,1,2100,0.4,0.1,0
+Washington,2,2015,NA,NA,NA
+Washington,2,2025,0.95,0.8,0.65
+Washington,2,2050,0.9,0.7,0.5
+Washington,2,2100,0.8,0.5,0.2
+Washington,3,2015,1,1,1
+Washington,3,2025,0.9,0.6,0.3
+Washington,3,2050,1,0.8,0.6
+Washington,3,2100,0.9,0.5,0.1
+Washington,4,2015,1,1,1
+Washington,4,2025,1,0.9,0.8
+Washington,4,2050,0.9,0.7,0.5
+Washington,4,2100,0.8,0.4,0
+Washington,5,2015,1,1,1
+Washington,5,2025,1,0.8,0.6
+Washington,5,2050,0.8,0.5,0.2
+Washington,5,2100,0.7,0.3,0
+Washington,6,2015,1,0.97,0.94
+Washington,6,2025,0.9,0.8,0.7
+Washington,6,2050,0.5,0.3,0.1
+Washington,6,2100,0.4,0.05,0
+Washington,7,2015,1,1,1
+Washington,7,2025,1,0.9,0.8
+Washington,7,2050,1,0.8,0.6
+Washington,7,2100,0.7,0.4,0.1
+Washington,8,2015,1,1,1
+Washington,8,2025,0.95,0.75,0.7
+Washington,8,2050,0.95,0.75,0.7
+Washington,8,2100,0.75,0.3,0.1
+Washington,9,2015,1,1,1
+Washington,9,2025,0.9,0.8,0.65
+Washington,9,2050,0.8,0.5,0.25
+Washington,9,2100,0.7,0.35,0.1
+Washington,10,2015,1,1,1
+Washington,10,2025,1,0.95,0.8
+Washington,10,2050,0.95,0.7,0.5
+Washington,10,2100,0.8,0.4,0.2
+Greater Yellowstone Area,1,2015,0.65,0.6,0.4
+Greater Yellowstone Area,1,2025,0.65,0.55,0.35
+Greater Yellowstone Area,1,2050,0.4,0.3,0.2
+Greater Yellowstone Area,1,2100,0.15,0.05,0
+Greater Yellowstone Area,2,2015,0.3,0.1,0
+Greater Yellowstone Area,2,2025,0.4,0.2,0
+Greater Yellowstone Area,2,2050,0.5,0.15,0
+Greater Yellowstone Area,2,2100,0.6,0.1,0
+Greater Yellowstone Area,3,2015,0.9,0.75,0.6
+Greater Yellowstone Area,3,2025,0.9,0.6,0.3
+Greater Yellowstone Area,3,2050,0.9,0.5,0.1
+Greater Yellowstone Area,3,2100,0.8,0.4,0
+Greater Yellowstone Area,4,2015,1,0.9,0.8
+Greater Yellowstone Area,4,2025,0.9,0.6,0.3
+Greater Yellowstone Area,4,2050,0.6,0.3,0
+Greater Yellowstone Area,4,2100,0.5,0.1,0
+Greater Yellowstone Area,5,2015,0.7,0.5,0.3
+Greater Yellowstone Area,5,2025,0.7,0.5,0.3
+Greater Yellowstone Area,5,2050,0.5,0.2,0
+Greater Yellowstone Area,5,2100,0.4,0.1,0
+Greater Yellowstone Area,6,2015,1,0.9,0.8
+Greater Yellowstone Area,6,2025,0.9,0.7,0.5
+Greater Yellowstone Area,6,2050,0.8,0.4,0.2
+Greater Yellowstone Area,6,2100,0.3,0.1,0
+Greater Yellowstone Area,7,2015,0.8,0.5,0.2
+Greater Yellowstone Area,7,2025,0.85,0.7,0.2
+Greater Yellowstone Area,7,2050,0.8,0.6,0.2
+Greater Yellowstone Area,7,2100,0.7,0.5,0
+Greater Yellowstone Area,8,2015,0.6,0.5,0.1
+Greater Yellowstone Area,8,2025,0.6,0.5,0.1
+Greater Yellowstone Area,8,2050,0.5,0.4,0.1
+Greater Yellowstone Area,8,2100,0.5,0.3,0.1
+Greater Yellowstone Area,9,2015,0.3,0.2,0.1
+Greater Yellowstone Area,9,2025,0.2,0.1,0
+Greater Yellowstone Area,9,2050,0.5,0.3,0.1
+Greater Yellowstone Area,9,2100,0.4,0.2,0
+Greater Yellowstone Area,10,2015,0.3,0,0
+Greater Yellowstone Area,10,2025,0.7,0.5,0.1
+Greater Yellowstone Area,10,2050,0.7,0.4,0.1
+Greater Yellowstone Area,10,2100,0.9,0.4,0
+Colorado,1,2015,1,1,1
+Colorado,1,2025,0.99,0.95,0.85
+Colorado,1,2050,0.9,0.8,0.65
+Colorado,1,2100,0.7,0.5,0.25
+Colorado,2,2015,1,1,1
+Colorado,2,2025,1,1,0.9
+Colorado,2,2050,1,0.7,0.5
+Colorado,2,2100,1,0.6,0.4
+Colorado,3,2015,1,1,1
+Colorado,3,2025,1,0.9,0.8
+Colorado,3,2050,1,0.8,0.6
+Colorado,3,2100,0.9,0.5,0.1
+Colorado,4,2015,1,1,1
+Colorado,4,2025,1,0.9,0.7
+Colorado,4,2050,1,0.8,0.5
+Colorado,4,2100,1,0.7,0.4
+Colorado,5,2015,1,1,1
+Colorado,5,2025,1,0.9,0.7
+Colorado,5,2050,0.9,0.8,0.5
+Colorado,5,2100,0.8,0.5,0
+Colorado,6,2015,1,1,1
+Colorado,6,2025,1,0.975,0.95
+Colorado,6,2050,0.9,0.6,0.3
+Colorado,6,2100,0.6,0.2,0
+Colorado,7,2015,1,1,1
+Colorado,7,2025,1,0.9,0.7
+Colorado,7,2050,0.8,0.6,0.4
+Colorado,7,2100,0.7,0.5,0.1
+Colorado,8,2015,1,1,1
+Colorado,8,2025,0.95,0.9,0.7
+Colorado,8,2050,0.95,0.85,0.5
+Colorado,8,2100,0.9,0.7,0.4
+Colorado,9,2015,1,1,1
+Colorado,9,2025,0.85,0.6,0.3
+Colorado,9,2050,0.8,0.5,0.2
+Colorado,9,2100,0.85,0.4,0.1
+Colorado,10,2015,1,1,1
+Colorado,10,2025,1,0.9,0.85
+Colorado,10,2050,1,0.8,0.4
+Colorado,10,2100,0.9,0.7,0.3
